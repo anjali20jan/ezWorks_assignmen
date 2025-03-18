@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color:black; */
+
+    
+}
+
+.main_container{
+    width: 1920px;
+    height:  1080px;
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+.main_container i.tem-2{
+    display: flex; 
+    justify-content: center; 
+     align-items: center;
+}
+@media  screen and (max-width: 1024px) {
+    .main_container  {
+         /* flex-direction: row; */
+         /* padding: 0; */
+        height: 100%;
+        width: 100vw;
+        /* display: block; */
+        display: flex;
+        flex-direction: column;
+         
+    }
+    
+
+    
+    
+    
+}
+
+
+

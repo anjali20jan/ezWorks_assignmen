@@ -1,0 +1,47 @@
+
+
+
+.container{
+    background-color: #112949;
+    width: 311px;
+    height: 254px;
+ 
+    border-radius: 10px;
+
+    color: #ffff;
+}
+.box{
+    padding: 30px;
+   
+}
+.header{
+    display: flex;
+    gap: 20px;
+}
+
+
+.header img{
+    width: 58px;
+    height: 58px;
+}
+
+.header h3{
+    color: #3CC3F2;
+    margin: 0px;
+    font-size: 29px;
+    text-align: left;
+    display: inline-block;
+}
+
+.para{
+    width: 251px;
+    height: 116px;
+   
+    margin-top: 20px;
+}
+.para p{
+    font-size: 24px;
+    text-align: left;
+    margin: 0;
+}
+
